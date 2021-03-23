@@ -2,7 +2,7 @@
   "name": "ura-kata-cognito-custom-message",
   "version": "0.1.0",
   "bin": {
-    "ura-kata-cognito-custom-message": "bin/ura-kata-cognito-custom-message.js"
+    "ura-kata-cognito-custom-message": "bin/index.js"
   },
   "scripts": {
     "build": "tsc",

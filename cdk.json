@@ -1,3 +1,3 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/ura-kata-cognito-custom-message.ts"
+  "app": "npx ts-node --prefer-ts-exts bin/index.ts"
 }
