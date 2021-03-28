@@ -1,4 +1,4 @@
-import { CognitoCustomMessageEvent } from '../@types/CognitoCustomMessageEvent';
+import { CognitoCustomMessageEvent } from 'CognitoCustomMessageEvent';
 
 const validationUrl = process.env.URA_KATA_VALIDATION_URL as string;
 

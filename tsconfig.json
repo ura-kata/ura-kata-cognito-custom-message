@@ -17,7 +17,11 @@
     "inlineSources": true,
     "experimentalDecorators": true,
     "strictPropertyInitialization": false,
-    "typeRoots": ["./node_modules/@types"]
+    "baseUrl": "./",
+    "paths": {
+      "CognitoCustomMessageEvent": ["./@types/CognitoCustomMessageEvent"]
+    },
+    "typeRoots": ["./node_modules/@types", "./@types"]
   },
   "exclude": ["cdk.out"]
 }

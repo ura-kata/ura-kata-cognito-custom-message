@@ -9,4 +9,4 @@ cdk.out
 
 .env
 
-!@types/*.d.ts
+!@types/**/*.d.ts
